@@ -1,0 +1,113 @@
+{
+  "trunk": {
+    "name": "Tree of Knowledge",
+    "branches": [
+      {
+        "name": "Finance",
+        "branches": [
+          {
+            "name": "Investing",
+            "leaves": [
+              {
+                "title": "How to Start Investing",
+                "url": "https://www.investopedia.com/articles/basics/06/invest1000.asp"
+              },
+              {
+                "title": "Stocks vs. Real Estate",
+                "url": "https://www.nerdwallet.com/article/investing/stocks-vs-real-estate"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Career & Productivity",
+        "branches": [
+          {
+            "name": "Career Growth",
+            "leaves": [
+              {
+                "title": "How to Negotiate a Higher Salary",
+                "url": "https://www.thebalancecareers.com/how-to-negotiate-a-salary-2063335"
+              },
+              {
+                "title": "Best Skills for a Software Engineer",
+                "url": "https://www.coursera.org/articles/software-engineer-skills"
+              }
+            ]
+          },
+          {
+            "name": "Time Management",
+            "leaves": [
+              {
+                "title": "How to Beat Procrastination",
+                "url": "https://jamesclear.com/procrastination"
+              },
+              {
+                "title": "Best Time Management Techniques",
+                "url": "https://www.mindtools.com/axt7kls/the-urgent-important-matrix"
+              }
+            ]
+          },
+          {
+            "name": "Entrepreneurship",
+            "leaves": [
+              {
+                "title": "How to Start an Online Business",
+                "url": "https://www.shopify.com/blog/how-to-start-an-online-business"
+              },
+              {
+                "title": "Best Ways to Find Investors for a Startup",
+                "url": "https://www.forbes.com/sites/allbusiness/2022/05/23/how-to-find-investors-for-your-startup/?sh=3162c0ad2ff3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lifestyle",
+        "branches": [
+          {
+            "name": "Self-Improvement",
+            "leaves": [
+              {
+                "title": "How to Build Confidence",
+                "url": "https://www.psychologytoday.com/us/blog/the-confidence-gap/201804/5-ways-boost-your-confidence"
+              },
+              {
+                "title": "Best Books on Personal Growth",
+                "url": "https://www.goodreads.com/shelf/show/personal-growth"
+              }
+            ]
+          },
+          {
+            "name": "Travel",
+            "leaves": [
+              {
+                "title": "Top 10 Places to Visit in Europe",
+                "url": "https://www.lonelyplanet.com/articles/top-experiences-europe"
+              },
+              {
+                "title": "How to Find Cheap Flights",
+                "url": "https://www.nomadicmatt.com/travel-blogs/how-to-find-a-cheap-flight/"
+              }
+            ]
+          },
+          {
+            "name": "Hobbies",
+            "leaves": [
+              {
+                "title": "Best Beginner Photography Tips",
+                "url": "https://www.digitalcameraworld.com/tutorials/photography-for-beginners"
+              },
+              {
+                "title": "How to Learn Guitar Fast",
+                "url": "https://www.fender.com/articles/how-to/how-to-learn-guitar"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
