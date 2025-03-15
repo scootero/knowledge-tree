@@ -1,0 +1,183 @@
+
+{
+  "Knowledge Tree": {
+    "Finance": {
+      "Investing": {
+        "Retirement Planning": {
+          "401k & IRA": {
+            "Saving for Retirement": {
+              "Leaf": {
+                "Website": "Vanguard",
+                "URL": "https://investor.vanguard.com/retirement/savings",
+                "Metadata": {
+                  "Title": "Retirement Savings: Plan and Invest for Your Future | Vanguard",
+                  "Description": "Discover Vanguard's retirement savings options and strategies to help you plan and invest for a secure financial future."
+                }
+              }
+            }
+          }
+        },
+        "Cryptocurrency": {
+          "Bitcoin": {
+            "Investing in Cryptocurrency": {
+              "Leaf": {
+                "Website": "Coinbase",
+                "URL": "https://www.coinbase.com/learn/crypto-basics",
+                "Metadata": {
+                  "Title": "Crypto Basics | Coinbase",
+                  "Description": "Learn the basics of cryptocurrency, how to invest in Bitcoin, Ethereum, and other digital assets securely with Coinbase."
+                }
+              }
+            }
+          }
+        },
+        "Financial Management": {
+          "Budgeting": {
+            "Personal Finance Management": {
+              "Leaf": {
+                "Website": "NerdWallet",
+                "URL": "https://www.nerdwallet.com",
+                "Metadata": {
+                  "Title": "Personal Finance Advice & Tools | NerdWallet",
+                  "Description": "Get smart money advice on banking, credit cards, investing, and loans to help manage your finances wisely."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Technology": {
+      "Software Development": {
+        "Programming Languages": {
+          "Web Development": {
+            "JavaScript": {
+              "How to Code a React App": {
+                "Leaf": {
+                  "Website": "React Official Documentation",
+                  "URL": "https://reactjs.org/docs/getting-started.html",
+                  "Metadata": {
+                    "Title": "Getting Started – React",
+                    "Description": "Learn how to build user interfaces with React, a JavaScript library, through comprehensive guides and tutorials in the official documentation."
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Career Paths": {
+          "Becoming a Software Engineer": {
+            "Leaf": {
+              "Website": "Codecademy",
+              "URL": "https://www.codecademy.com/learn/paths/computer-science",
+              "Metadata": {
+                "Title": "Computer Science Career Path | Codecademy",
+                "Description": "Embark on a journey to become a software engineer with Codecademy's Computer Science Career Path, covering fundamental programming concepts and practical applications."
+              }
+            }
+          }
+        }
+      },
+      "Artificial Intelligence": {
+        "Machine Learning": {
+          "Deep Learning": {
+            "The Future of AI": {
+              "Leaf": {
+                "Website": "MIT Technology Review",
+                "URL": "https://www.technologyreview.com/topic/artificial-intelligence",
+                "Metadata": {
+                  "Title": "Artificial Intelligence News & Insights | MIT Technology Review",
+                  "Description": "Explore the latest advancements, news, and insights in artificial intelligence, and understand how AI is shaping the future across various industries."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Health & Wellness": {
+      "Mental Health": {
+        "Mindfulness Practices": {
+          "Meditation": {
+            "Leaf": {
+              "Website": "Headspace",
+              "URL": "https://www.headspace.com/meditation",
+              "Metadata": {
+                "Title": "Meditation Techniques and Benefits | Headspace",
+                "Description": "Learn the essentials of meditation, discover its benefits, and access guided sessions to improve mindfulness and well-being with Headspace."
+              }
+            }
+          }
+        },
+        "Wellness Resources": {
+          "Mental Health Resources": {
+            "Leaf": {
+              "Website": "Mental Health America",
+              "URL": "https://www.mhanational.org",
+              "Metadata": {
+                "Title": "Mental Health Support & Information | Mental Health America",
+                "Description": "Find mental health resources, self-help tools, and support for emotional well-being from Mental Health America."
+              }
+            }
+          }
+        }
+      },
+      "Fitness": {
+        "Exercise Routines": {
+          "Home Workout Routines": {
+            "Leaf": {
+              "Website": "Fitness Blender",
+              "URL": "https://www.fitnessblender.com",
+              "Metadata": {
+                "Title": "Free Workout Videos & Fitness Plans | Fitness Blender",
+                "Description": "Get fit at home with free workout videos, routines, and fitness plans from Fitness Blender."
+              }
+            }
+          }
+        }
+      },
+      "Nutrition": {
+        "Diets": {
+          "Healthy Eating": {
+            "Healthy Recipes": {
+              "Leaf": {
+                "Website": "EatingWell",
+                "URL": "https://www.eatingwell.com/recipes",
+                "Metadata": {
+                  "Title": "Healthy Recipes - EatingWell",
+                  "Description": "Find healthy, delicious recipes for any occasion, including quick and easy, low-calorie, low-carb, vegetarian, and more from the food and nutrition experts at EatingWell."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+     "World": {
+      "News": {
+        "Trade": {
+            "Leaf": {
+              "Website": "BBC",
+              "URL": "https://www.bbc.com/news/articles/c3e4d8epdzdo",
+              "Metadata": {
+                "Title": "Trade war escalates as Trump pledges more tariffs",
+                "Description": "Trump repeated trade threats after the European Union and Canada retaliated to US steel and aluminium tariffs."
+              }
+            }
+        }
+      },
+      "Travel": {
+        "Beaches": {
+            "Leaf": {
+              "Website": "Travel + Leisure",
+              "URL": "https://www.travelandleisure.com/trip-ideas/beach-vacations/most-beautiful-beaches-in-the-world",
+              "Metadata": {
+                "Title": "26 Most Beautiful Beaches in the World",
+                "Description": "Discover the softest sands and prettiest water our little blue planet has to offer."
+              }
+            }
+        }
+      }
+    }
+  }
+}
